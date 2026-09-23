@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "cover": "images/catalogo/anime/anime/anime.jpeg"
+    },
+    {
+      "id": "dragoes",
+      "name": "Dragões",
+      "cover": "images/catalogo/dragoes/dragoes/dragaoteste.jpeg"
+    },
+    {
+      "id": "porta-chaves",
+      "name": "Porta-Chaves",
+      "cover": "images/catalogo/porta-chaves/porta-chaves/porco.jpeg"
+    },
+    {
+      "id": "carros",
+      "name": "Carros",
+      "cover": "images/catalogo/carros/carros-chaveiros/carro.jpeg"
+    },
+    {
+      "id": "decos-mesa",
+      "name": "Decos Mesa",
+      "cover": "images/catalogo/decos-mesa/deco-mesa-anime/placaonepiece.jpeg"
+    },
+    {
+      "id": "marcadores-livro",
+      "name": "Marcadores Livro",
+      "cover": "images/catalogo/marcadores-livro/marcador-livro/marcador.jpeg"
+    },
+    {
+      "id": "luminarias",
+      "name": "Luminárias",
+      "cover": "images/catalogo/luminarias/luminarias/luzcavaleiro.jpeg"
+    },
+    {
+      "id": "sai-sempre",
+      "name": "Sai Sempre",
+      "cover": "images/catalogo/sai-sempre/sai-sempre/saisempre.jpeg"
+    }
+  ],
+  "products": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "category": "anime",
+      "subcategory": "Anime",
+      "price": "",
+      "description": "",
+      "images": [
+        "images/catalogo/anime/anime/anime.jpeg"
+      ]
+    },
+    {
+      "id": "estatua-son-goku",
+      "name": "Estátua Son Goku",
+      "category": "anime",
+      "subcategory": "Dragon Ball",
+      "price": "35€",
+      "description": "",
+      "images": [
+        "images/catalogo/anime/dragon-ball/songoku.jpeg"
+      ]
+    },
+    {
+      "id": "pikachu-dead-pool",
+      "name": "Pikachu Dead Pool",
+      "category": "anime",
+      "subcategory": "Pokémon",
+      "price": "25€",
+      "description": "",
+      "images": [
+        "images/catalogo/anime/pokemon/pickachudeadpool.jpeg"
+      ]
+    },
+    {
+      "id": "pikachu-homem-aranha",
+      "name": "Pikachu Homem Aranha",
+      "category": "anime",
+      "subcategory": "Pokémon",
+      "price": "25€",
+      "description": "",
+      "images": [
+        "images/catalogo/anime/pokemon/pickachuhomemaranha.jpeg"
+      ]
+    },
+    {
+      "id": "pikachu-venom",
+      "name": "Pikachu Venom",
+      "category": "anime",
+      "subcategory": "Pokémon",
+      "price": "25€",
+      "description": "",
+      "images": [
+        "images/catalogo/anime/pokemon/pickachuvemon.jpeg"
+      ]
+    },
+    {
+      "id": "dragao-azul-com-luz",
+      "name": "Dragão Azul Com Luz",
+      "category": "dragoes",
+      "subcategory": "Dragões",
+      "price": "65€",
+      "description": "",
+      "images": [
+        "images/catalogo/dragoes/dragoes/dragaoteste.jpeg"
+      ]
+    },
+    {
+      "id": "porco",
+      "name": "Porco",
+      "category": "porta-chaves",
+      "subcategory": "Porta Chaves",
+      "price": "5€",
+      "description": "",
+      "images": [
+        "images/catalogo/porta-chaves/porta-chaves/porco.jpeg"
+      ]
+    },
+    {
+      "id": "porta-chaves-satoru-gojo",
+      "name": "Porta Chaves Satoru Gojo",
+      "category": "porta-chaves",
+      "subcategory": "Porta Chaves",
+      "price": "5€",
+      "description": "",
+      "images": [
+        "images/catalogo/porta-chaves/porta-chaves/portachaveanime.jpeg"
+      ]
+    },
+    {
+      "id": "porta-chaves-roronoa-zoro",
+      "name": "Porta Chaves Roronoa Zoro",
+      "category": "porta-chaves",
+      "subcategory": "Porta Chaves",
+      "price": "5€",
+      "description": "",
+      "images": [
+        "images/catalogo/porta-chaves/porta-chaves/portachaves2.jpeg"
+      ]
+    },
+    {
+      "id": "traseira-lamborghini",
+      "name": "Traseira Lamborghini",
+      "category": "carros",
+      "subcategory": "Carros Chaveiros",
+      "price": "35€",
+      "description": "",
+      "images": [
+        "images/catalogo/carros/carros-chaveiros/carro.jpeg"
+      ]
+    },
+    {
+      "id": "traseira-ferrari",
+      "name": "Traseira Ferrari",
+      "category": "carros",
+      "subcategory": "Carros Chaveiros",
+      "price": "25€",
+      "description": "",
+      "images": [
+        "images/catalogo/carros/carros-chaveiros/chaveiroferrari.jpeg"
+      ]
+    },
+    {
+      "id": "traseira-gt3",
+      "name": "Traseira GT3",
+      "category": "carros",
+      "subcategory": "Carros Chaveiros",
+      "price": "35€",
+      "description": "",
+      "images": [
+        "images/catalogo/carros/carros-chaveiros/chaveirogt3.jpeg"
+      ]
+    },
+    {
+      "id": "deco-mesa-one-pice-40cm",
+      "name": "Deco Mesa One Pice 40cm",
+      "category": "decos-mesa",
+      "subcategory": "Deco Mesa Anime",
+      "price": "45€",
+      "description": "",
+      "images": [
+        "images/catalogo/decos-mesa/deco-mesa-anime/placaonepiece.jpeg"
+      ]
+    },
+    {
+      "id": "marcador-1",
+      "name": "Marcador 1",
+      "category": "marcadores-livro",
+      "subcategory": "Marcador Livro",
+      "price": "4€",
+      "description": "",
+      "images": [
+        "images/catalogo/marcadores-livro/marcador-livro/marcador.jpeg"
+      ]
+    },
+    {
+      "id": "marcador-2",
+      "name": "Marcador 2",
+      "category": "marcadores-livro",
+      "subcategory": "Marcador Livro",
+      "price": "4€",
+      "description": "",
+      "images": [
+        "images/catalogo/marcadores-livro/marcador-livro/marcador2.jpeg"
+      ]
+    },
+    {
+      "id": "luminaria-cavaleiro",
+      "name": "Luminária Cavaleiro",
+      "category": "luminarias",
+      "subcategory": "Luminárias",
+      "price": "??€",
+      "description": "",
+      "images": [
+        "images/catalogo/luminarias/luminarias/luzcavaleiro.jpeg"
+      ]
+    },
+    {
+      "id": "luminaria-fruta-one-piece",
+      "name": "Luminária Fruta One Piece",
+      "category": "luminarias",
+      "subcategory": "Luminárias",
+      "price": "??€",
+      "description": "",
+      "images": [
+        "images/catalogo/luminarias/luminarias/luzfruta.jpeg"
+      ]
+    },
+    {
+      "id": "luminaria-mao-ferro",
+      "name": "Luminária Mão Ferro",
+      "category": "luminarias",
+      "subcategory": "Luminárias",
+      "price": "??€",
+      "description": "",
+      "images": [
+        "images/catalogo/luminarias/luminarias/luzmaohomemferro.jpeg"
+      ]
+    },
+    {
+      "id": "luminaria-polvo",
+      "name": "Luminária Polvo",
+      "category": "luminarias",
+      "subcategory": "Luminárias",
+      "price": "??€",
+      "description": "",
+      "images": [
+        "images/catalogo/luminarias/luminarias/luzpolvo.jpeg"
+      ]
+    },
+    {
+      "id": "luminaria-harry-potter",
+      "name": "Luminária Harry Potter",
+      "category": "luminarias",
+      "subcategory": "Luminárias",
+      "price": "??€",
+      "description": "",
+      "images": [
+        "images/catalogo/luminarias/luminarias/luzchapeuharrypotter.jpeg"
+      ]
+    },
+    {
+      "id": "sai-sempre",
+      "name": "Sai Sempre",
+      "category": "sai-sempre",
+      "subcategory": "Sai Sempre",
+      "price": "1€",
+      "description": "",
+      "images": [
+        "images/catalogo/sai-sempre/sai-sempre/saisempre.jpeg"
+      ]
+    }
+  ]
+}
